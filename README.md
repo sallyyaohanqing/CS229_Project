@@ -1,5 +1,5 @@
 # CS229 Final Project: Facial Expression Recognition on Masked Faces
-**Contributor**:
+**Contributors**:
 - Yoko Nagafuchi (yokongf@stanford.edu)
 - Zifei Xu (zifei98@stanford.edu)
 - Sally (Hanqing) Yao (yaohanqi@stanford.edu)
