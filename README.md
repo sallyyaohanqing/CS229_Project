@@ -10,4 +10,4 @@
 **Programs**:
 - Emotion_Recognition.py: Training on one of the models-Naive Bayes, Logistic Regression, Random Forest, K-Means, SVM
 - CNN.py: Training on customized CNN model
-- ResNet.py: Training on modified pretrained ResNet18 model
+- ResNet.py: Training on modified pretrained ResNet18 model. Part of the codes for transfering learning of the ResNet18 is modified based on: (https://www.pluralsight.com/guides/introduction-to-resnet).
